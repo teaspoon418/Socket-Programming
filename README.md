@@ -1,0 +1,2 @@
+# Socket-Programming
+A simple socket programming project that involves developing a connection between the nodes to communicate with each other in a given network. Here, the socket which listens is a server and there are multiple nodes(Clients) which sends the data to the server. The Server waits and listens for the data, reads it and then reverses it before sending it back to the respective clients.
